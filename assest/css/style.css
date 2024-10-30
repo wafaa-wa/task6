@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.navbar {
+    background-color: #f3f2ec;
+    border-bottom: 1px solid #dbd9cfa8;
+
+}
+.hero {
+    height: calc(100vh - 60.5px);
+    background-color: #f3f2ec;
+}
+@media (max-width:991px) {
+    .hero {
+        height: fit-content;
+        padding: 20px;
+    }
+
+}
+.content button {
+    color: #ceb7a2;
+    border: 1px solid #ceb7a2 ;
+}
+.right {
+    padding: 20px;
+    border-radius: 50%;
+    border: 1px solid #dbd9cfa8;
+}
+.first-section {
+    background-color: #edebe4;
+}
+.featured  {
+    background-color:#f3f2ec; 
+}
+.line {
+    height: 2px;
+}
+.selling-book {
+    background-color: #f3f2ec;
+}
+.subscribe  {
+    background-color: #edebe4;
+}
+.first-footer {
+    background-color:#f3f2ec;
+
+}
+.second-footer{
+    background-color:#f3f2ec;
+
+}
+
+
